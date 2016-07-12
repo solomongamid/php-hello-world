@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Helloworld</title>
-</head>
-<body>
+
 		
 		<?php
 
@@ -21,12 +16,4 @@
 		echo $_GET['name']; */
 		?>
 
-
-
-	
-		
-	
-
-</body>
-</html>
 
